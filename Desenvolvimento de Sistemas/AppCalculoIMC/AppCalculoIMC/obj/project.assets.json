@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Github\\ETEC2Modulo\\Desenvolvimento de Sistemas\\AppCalculoMedia\\WinFormsApp1\\WinFormsApp1.csproj",
-      "projectName": "WinFormsApp1",
-      "projectPath": "H:\\Github\\ETEC2Modulo\\Desenvolvimento de Sistemas\\AppCalculoMedia\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectUniqueName": "H:\\Github\\ETEC2Modulo\\Desenvolvimento de Sistemas\\AppCalculoIMC\\AppCalculoIMC\\AppCalculoIMC.csproj",
+      "projectName": "AppCalculoIMC",
+      "projectPath": "H:\\Github\\ETEC2Modulo\\Desenvolvimento de Sistemas\\AppCalculoIMC\\AppCalculoIMC\\AppCalculoIMC.csproj",
       "packagesPath": "C:\\Users\\siqueira.dsn.pack\\.nuget\\packages\\",
-      "outputPath": "H:\\Github\\ETEC2Modulo\\Desenvolvimento de Sistemas\\AppCalculoMedia\\WinFormsApp1\\obj\\",
+      "outputPath": "H:\\Github\\ETEC2Modulo\\Desenvolvimento de Sistemas\\AppCalculoIMC\\AppCalculoIMC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
