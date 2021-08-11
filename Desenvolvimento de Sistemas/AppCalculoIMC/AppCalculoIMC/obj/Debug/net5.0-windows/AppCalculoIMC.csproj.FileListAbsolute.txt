@@ -16,3 +16,4 @@ H:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppCalculoIMC\AppCalculoIMC\ob
 H:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppCalculoIMC\AppCalculoIMC\obj\Debug\net5.0-windows\ref\AppCalculoIMC.dll
 H:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppCalculoIMC\AppCalculoIMC\obj\Debug\net5.0-windows\AppCalculoIMC.pdb
 H:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppCalculoIMC\AppCalculoIMC\obj\Debug\net5.0-windows\AppCalculoIMC.genruntimeconfig.cache
+H:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppCalculoIMC\AppCalculoIMC\obj\Debug\net5.0-windows\AppCalculoIMC.Properties.Resources.resources
