@@ -8,7 +8,13 @@ const styles = StyleSheet.create({
   },
 
   viewTitulo: {
+    alignItems: 'center',
     backgroundColor: 'white'
+  },
+
+  Logo: {
+    height: 40,
+    width: 40
   },
 
   titulo: {
@@ -60,8 +66,21 @@ const styles = StyleSheet.create({
     marginLeft: 35,
     marginRight: 20,
     color: 'mediumpurple',
-    fontSize: 15,
-    textAlign: 'center'
+    fontSize: 23,
+    textAlign: 'center',
+    marginBottom: 20
+  },
+
+  item: {
+    alignItems: 'center',
+    backgroundColor: 'mediumpurple',
+    flexGrow: 1,
+    margin: 4,
+    padding: 20,
+    flexBasis: 0
+  },
+  text: {
+    color: 'white'
   }
 })
 
