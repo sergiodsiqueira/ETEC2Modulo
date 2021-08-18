@@ -1,5 +1,4 @@
 H:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppCalculoIMC\AppCalculoIMC\obj\Debug\net5.0-windows\AppCalculoIMC.csproj.AssemblyReference.cache
-H:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppCalculoIMC\AppCalculoIMC\obj\Debug\net5.0-windows\AppCalculoIMC.Form1.resources
 H:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppCalculoIMC\AppCalculoIMC\obj\Debug\net5.0-windows\AppCalculoIMC.csproj.GenerateResource.cache
 H:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppCalculoIMC\AppCalculoIMC\obj\Debug\net5.0-windows\AppCalculoIMC.GeneratedMSBuildEditorConfig.editorconfig
 H:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppCalculoIMC\AppCalculoIMC\obj\Debug\net5.0-windows\AppCalculoIMC.AssemblyInfoInputs.cache
@@ -17,3 +16,4 @@ H:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppCalculoIMC\AppCalculoIMC\ob
 H:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppCalculoIMC\AppCalculoIMC\obj\Debug\net5.0-windows\AppCalculoIMC.pdb
 H:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppCalculoIMC\AppCalculoIMC\obj\Debug\net5.0-windows\AppCalculoIMC.genruntimeconfig.cache
 H:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppCalculoIMC\AppCalculoIMC\obj\Debug\net5.0-windows\AppCalculoIMC.Properties.Resources.resources
+H:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppCalculoIMC\AppCalculoIMC\obj\Debug\net5.0-windows\AppCalculoIMC.frmPrincipal.resources

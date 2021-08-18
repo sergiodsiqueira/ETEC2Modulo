@@ -1,0 +1,17 @@
+H:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppValidaDados\AppValidaDados\bin\Debug\net5.0-windows\AppValidaDados.exe
+H:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppValidaDados\AppValidaDados\bin\Debug\net5.0-windows\AppValidaDados.deps.json
+H:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppValidaDados\AppValidaDados\bin\Debug\net5.0-windows\AppValidaDados.runtimeconfig.json
+H:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppValidaDados\AppValidaDados\bin\Debug\net5.0-windows\AppValidaDados.runtimeconfig.dev.json
+H:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppValidaDados\AppValidaDados\bin\Debug\net5.0-windows\AppValidaDados.dll
+H:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppValidaDados\AppValidaDados\bin\Debug\net5.0-windows\ref\AppValidaDados.dll
+H:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppValidaDados\AppValidaDados\bin\Debug\net5.0-windows\AppValidaDados.pdb
+H:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppValidaDados\AppValidaDados\obj\Debug\net5.0-windows\AppValidaDados.Form1.resources
+H:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppValidaDados\AppValidaDados\obj\Debug\net5.0-windows\AppValidaDados.csproj.GenerateResource.cache
+H:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppValidaDados\AppValidaDados\obj\Debug\net5.0-windows\AppValidaDados.GeneratedMSBuildEditorConfig.editorconfig
+H:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppValidaDados\AppValidaDados\obj\Debug\net5.0-windows\AppValidaDados.AssemblyInfoInputs.cache
+H:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppValidaDados\AppValidaDados\obj\Debug\net5.0-windows\AppValidaDados.AssemblyInfo.cs
+H:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppValidaDados\AppValidaDados\obj\Debug\net5.0-windows\AppValidaDados.csproj.CoreCompileInputs.cache
+H:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppValidaDados\AppValidaDados\obj\Debug\net5.0-windows\AppValidaDados.dll
+H:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppValidaDados\AppValidaDados\obj\Debug\net5.0-windows\ref\AppValidaDados.dll
+H:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppValidaDados\AppValidaDados\obj\Debug\net5.0-windows\AppValidaDados.pdb
+H:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppValidaDados\AppValidaDados\obj\Debug\net5.0-windows\AppValidaDados.genruntimeconfig.cache
