@@ -1,0 +1,18 @@
+C:\Users\55199\Desktop\ETEC\2o Modulo\Desenvolvimento de sistemas\P_valida_dados\P_valida_dados\bin\Debug\P_valida_dados.exe
+C:\Users\55199\Desktop\ETEC\2o Modulo\Desenvolvimento de sistemas\P_valida_dados\P_valida_dados\bin\Debug\P_valida_dados.pdb
+C:\Users\55199\Desktop\ETEC\2o Modulo\Desenvolvimento de sistemas\P_valida_dados\P_valida_dados\obj\Debug\P_valida_dados.csprojAssemblyReference.cache
+C:\Users\55199\Desktop\ETEC\2o Modulo\Desenvolvimento de sistemas\P_valida_dados\P_valida_dados\obj\Debug\P_valida_dados.Form1.resources
+C:\Users\55199\Desktop\ETEC\2o Modulo\Desenvolvimento de sistemas\P_valida_dados\P_valida_dados\obj\Debug\P_valida_dados.Properties.Resources.resources
+C:\Users\55199\Desktop\ETEC\2o Modulo\Desenvolvimento de sistemas\P_valida_dados\P_valida_dados\obj\Debug\P_valida_dados.csproj.GenerateResource.cache
+C:\Users\55199\Desktop\ETEC\2o Modulo\Desenvolvimento de sistemas\P_valida_dados\P_valida_dados\obj\Debug\P_valida_dados.csproj.CoreCompileInputs.cache
+C:\Users\55199\Desktop\ETEC\2o Modulo\Desenvolvimento de sistemas\P_valida_dados\P_valida_dados\obj\Debug\P_valida_dados.exe
+C:\Users\55199\Desktop\ETEC\2o Modulo\Desenvolvimento de sistemas\P_valida_dados\P_valida_dados\obj\Debug\P_valida_dados.pdb
+G:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppValidaDados\P_valida_dados\P_valida_dados\bin\Debug\P_valida_dados.exe
+G:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppValidaDados\P_valida_dados\P_valida_dados\bin\Debug\P_valida_dados.pdb
+G:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppValidaDados\P_valida_dados\P_valida_dados\obj\Debug\P_valida_dados.csproj.AssemblyReference.cache
+G:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppValidaDados\P_valida_dados\P_valida_dados\obj\Debug\P_valida_dados.Form1.resources
+G:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppValidaDados\P_valida_dados\P_valida_dados\obj\Debug\P_valida_dados.Properties.Resources.resources
+G:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppValidaDados\P_valida_dados\P_valida_dados\obj\Debug\P_valida_dados.csproj.GenerateResource.cache
+G:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppValidaDados\P_valida_dados\P_valida_dados\obj\Debug\P_valida_dados.csproj.CoreCompileInputs.cache
+G:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppValidaDados\P_valida_dados\P_valida_dados\obj\Debug\P_valida_dados.exe
+G:\Github\ETEC2Modulo\Desenvolvimento de Sistemas\AppValidaDados\P_valida_dados\P_valida_dados\obj\Debug\P_valida_dados.pdb
