@@ -2,11 +2,17 @@ import React from 'react';
 import { StyleSheet, Text, SafeAreaView, Image, TouchableOpacity, Dimensions } from 'react-native';
 import fonts from '../styles/fonts';
 import { useNavigation } from '@react-navigation/core';
+import { CustomBtn } from '../components/customBtn';
 
 export function Welcome() {
   const navigation = useNavigation();
+  
   function handleMenu(){
     navigation.navigate('Menu')
+  }
+
+  function msg(){
+    alert('Ola Mundo')
   }
 
   return (
@@ -17,11 +23,16 @@ export function Welcome() {
         <Image source={require('../assets/v1_3.png')}
         style={styles.background}/>
 
-        <TouchableOpacity style={styles.botao} onPress={handleMenu}>
+        <TouchableOpacity style={styles.botao} onPress={handleMenu} style={styles.button}>
             <Text style={styles.botaotexto}>
                 ENTRAR
             </Text>
         </TouchableOpacity>
+        <CustomBtn 
+          onPress = {msg}
+          textStyle = {{color:'white'}}
+          textButton = 'CALCULAR'
+        />
     </SafeAreaView>
   );
 }
