@@ -12,13 +12,13 @@ const Stack = createNativeStackNavigator();
 
 const AppRoutes = () => (
     <Stack.Navigator screenOptions={{headerStyle: {backgroundColor: 'black'}}}>
-        <Stack.Screen name='Lista' component={Lista} options={{headerTitle:'', headerShown: false}}/>
         <Stack.Screen name='Welcome' component={Welcome} options={{headerTitle:'HOME', headerShown: false}}/>       
         <Stack.Screen name='Menu' component={Menu} options={{headerTitle:'', headerShown: false, headerTintColor: 'white'}}/> 
         <Stack.Screen name='Viabilidade' component={Viabilidade} options={{headerTitle:'', headerShown: false}}/>
         <Stack.Screen name='Consumo' component={Consumo} options={{headerTitle:'', headerShown: false}}/>
         <Stack.Screen name='Rota' component={Rota} options={{headerTitle:'', headerShown: false}}/>
         <Stack.Screen name='Grid' component={Grid} options={{headerTitle:'', headerShown: false}}/>
+        <Stack.Screen name='Lista' component={Lista} options={{headerTitle:'', headerShown: false}}/>
     </Stack.Navigator>
 )
 
