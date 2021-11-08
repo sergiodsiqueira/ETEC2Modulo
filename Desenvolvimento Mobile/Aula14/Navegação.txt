@@ -1,0 +1,67 @@
+import React from 'react';
+import { StyleSheet, Text, View } from 'react-native';
+import { NavigationContainer } from '@react-navigation/native';
+import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
+ 
+function HomeScreen(){
+  return(
+    <View style={styles.home}>
+      <Text>
+        Home
+      </Text>
+    </View>
+  );
+}
+ 
+function SettingsScreen(){
+  return(
+    <View style={styles.settings}>
+      <Text>
+        Settings
+      </Text>
+    </View>
+  );
+}
+ 
+const Tab = createBottomTabNavigator();
+ 
+function MyTabs() {
+  return(
+    
+    <Tab.Navigator style={styles.container}>
+      <Tab.Screen name='Home' component={HomeScreen}/>
+      <Tab.Screen name='Settings' component={SettingsScreen}/>
+    </Tab.Navigator>
+    
+  );
+}
+ 
+export default function App() {
+  return (
+    <NavigationContainer>
+      <MyTabs/>
+    </NavigationContainer>
+  );
+}
+ 
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: 'yellow',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  home: {
+    flex: 1,
+    backgroundColor: 'ciano',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  settings: {
+    flex: 1,
+    backgroundColor: 'red',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+ 
+});
