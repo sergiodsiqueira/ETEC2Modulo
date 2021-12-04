@@ -1,0 +1,17 @@
+{
+    "require": {
+        "twbs/bootstrap": "^5.1",
+        "components/jquery": "^3.6",
+        "fortawesome/font-awesome": "^5.15",
+        "coffeecode/router": "^1.0",
+        "coffeecode/paginator": "^1.0",
+        "coffeecode/datalayer": "^1.1"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "Includes\\": "assets/includes/"
+        }
+    }
+
+}

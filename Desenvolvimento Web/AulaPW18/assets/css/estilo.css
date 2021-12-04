@@ -1,0 +1,104 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: #ccc;
+  font-family: "Trebuchet MS";
+  height: 100vh;
+  width: 100%;
+}
+
+.topo {
+  background: #000;
+  color: #fff;
+  height: 85px;
+  font-size: 22px;
+  padding: 10px;
+}
+
+.topo img {
+  height: 3em;
+  width: 3em;
+}
+
+.nav {
+  background: #191919;
+  color: #fff;
+  height: 50px;
+  font-size: 16px;
+  line-height: 50px;
+}
+
+.nav ul li {
+  list-style: none;
+}
+
+.nav li {
+  float: left;
+  margin-right: 5px;
+  width: 100px;
+}
+
+.nav li a {
+  color: #fff;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+}
+
+.nav li a:hover {
+  background: #ccc;
+  color: #000;
+}
+
+.main {
+  background: #667;
+  min-height: 77vh;
+}
+
+.rodape {
+  background: #191919;
+  color: #fff;
+  text-align: center;
+}
+
+.rodape a {
+  color: #444;
+  font-size: 1.2em;
+  text-decoration: none;
+}
+
+.rodape a:hover {
+  color: #fff;
+}
+
+.paginator {
+  list-style: none;
+  margin-top: 30px;
+  padding: 0;
+}
+
+.paginator_item {
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  background: rgb(69, 69, 71);
+  border-radius: 4px;
+  color: #fff;
+  display: inline-block;
+  margin: 0 3px;
+  padding: 4px 12px;
+  text-decoration: none;
+}
+
+.paginator_item:hover {
+  background: #ccc;
+  color: #000;
+}
+.paginator_active,
+.paginator_active:hover {
+  background: #ccc;
+  color: #000;
+}
